@@ -1,0 +1,214 @@
+[
+    {
+        "CategoryName": "Arduino Boards",
+        "name": "Arduino UNO",
+        "img": "https://static.javatpoint.com/tutorial/arduino/images/arduino-boards.png",
+        "options": [
+            {
+                "1": "130",
+                "2": "220",
+                "3": "340"
+            }
+        ],
+        "description": "Arduino UNO is based on an ATmega328P microcontroller. It is easy to use compared to other boards, such as the Arduino Mega board, etc. "
+    },
+    {
+        "CategoryName": "Arduino Boards",
+        "name": "Arduino Nano",
+        "img": "https://static.javatpoint.com/tutorial/arduino/images/arduino-boards2.png",
+        "options": [
+            {
+                "1": "110",
+                "2": "200",
+                "3": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Arduino Boards",
+        "name": "Arduino Mega",
+        "img": "https://static.javatpoint.com/tutorial/arduino/images/arduino-boards3.png",
+        "options": [
+            {
+                "1": "200",
+                "2": "320"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Arduino Boards",
+        "name": "Arduino Micro",
+        "img": "https://static.javatpoint.com/tutorial/arduino/images/arduino-boards4.png",
+        "options": [
+            {
+                "1": "170",
+                "2": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Arduino Boards",
+        "name": "Arduino Leonardo",
+        "img": "https://static.javatpoint.com/tutorial/arduino/images/arduino-boards5.png",
+        "options": [
+            {
+                "1": "150",
+                "2": "260"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Arduino Boards",
+        "name": "Arduino Due",
+        "img": "https://static.javatpoint.com/tutorial/arduino/images/arduino-boards6.png",
+        "options": [
+            {
+                "1": "120",
+                "2": "220"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Raspberry pi boards",
+        "name": "Raspberry pi board",
+        "img": "https://i2.wp.com/woodsgood.ca/projects/wp-content/uploads/rPi3B.jpeg",
+        "options": [
+            {
+                "1": "120",
+                "2": "220"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Sensors",
+        "name": "Proximity Sensors",
+        "img": "https://www.electronicshub.org/wp-content/uploads/2017/11/Types-of-Sensors-Image-4.jpg",
+        "options": [
+            {
+                "1": "120",
+                "2": "200"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Sensors",
+        "name": "Temperature Sensor",
+        "img": "https://www.electronicshub.org/wp-content/uploads/2017/11/Types-of-Sensors-Image-3.jpg",
+        "options": [
+            {
+                "1": "150",
+                "2": "260"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Sensors",
+        "name": "Light Sensor",
+        "img": "https://www.electronicshub.org/wp-content/uploads/2015/01/LDR-Photoresistor.png",
+        "options": [
+            {
+                "1": "170",
+                "2": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Sensors",
+        "name": "Ultrasonic Sensor",
+        "img": "https://www.electronicshub.org/wp-content/uploads/2017/11/Types-of-Sensors-Image-6.jpg",
+        "options": [
+            {
+                "1": "170",
+                "2": "250"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Soldering and Desoldering Tools",
+        "name": "Soldering Tool Kit",
+        "img": "https://rukminim1.flixcart.com/image/612/612/kkk1vgw0/soldering-iron/r/x/l/electronic-repairing-11in1-mobile-soldering-and-desoldering-original-imafzvnzfanvhzqp.jpeg?q=70",
+        "options": [
+            {
+                "1": "120",
+                "2": "230",
+                "3": "350"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Multimeters",
+        "name": "Digital Multimeter",
+        "img": "https://m.media-amazon.com/images/I/81unUTBUr6L._AC_UL320_.jpg",
+        "options": [
+            {
+                "1": "100",
+                "2": "200",
+                "3": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Multimeters",
+        "name": "Analog Multimeter",
+        "img": "https://th.bing.com/th/id/OIP.ZP4z9wNS-IvcuBPjdzwyXAHaI6?w=162&h=195&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+        "options": [
+            {
+                "1": "100",
+                "2": "200",
+                "3": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Prototyping Equipment",
+        "name": "PCB",
+        "img": "https://m.media-amazon.com/images/I/416uiqGw-0L._SY445_SX342_QL70_FMwebp_.jpg",
+        "options": [
+            {
+                "1": "100",
+                "2": "200",
+                "3": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Prototyping Equipment",
+        "name": "Jumper wires",
+        "img": "https://m.media-amazon.com/images/I/71DvlkHeCuL._AC_UL320_.jpg",
+        "options": [
+            {
+                "1": "100",
+                "2": "200",
+                "3": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Prototyping Equipment",
+        "name": "Breadboard",
+        "img": "https://m.media-amazon.com/images/I/61gL0DypOIL._AC_UL320_.jpg",
+        "options": [
+            {
+                "1": "100",
+                "2": "200",
+                "3": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    }
+]

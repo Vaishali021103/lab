@@ -1,0 +1,155 @@
+.logo {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    padding-left: 22px;
+    flex-direction: row;
+
+}
+
+nav ul {
+    display: flex;
+
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0 53px;
+
+
+}
+
+
+nav ul li a {
+    color: #00698f;
+    font-size: 24px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+nav ul li a:hover {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: xx-large;
+}
+
+.space {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.regi {
+    /* width: 85%; */
+    margin: auto;
+    /* padding: 35px 0; */
+    align-items: center;
+
+}
+
+
+.spacebar {
+    width: 73vw;
+    background-color: white;
+}
+
+.labtracker {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 0.015rem;
+    color: #00698f;
+    font-family: Segoe UI, 'Source Sans Pro';
+    padding-left: 18px;
+
+}
+
+
+.signup {
+    background-color: #00698f;
+    color: #ffffff;
+    border: 1px solid #00698f;
+    border-radius: 32px;
+    cursor: pointer;
+    height: 15px;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 26px;
+    right: 195px;
+    padding: 23px 35px;
+    font-size: 25px;
+    font-family: DM Sans, 'Source Sans Pro';
+    float: right;
+    margin: auto;
+
+}
+
+.signup:hover {
+
+    background-color: #ffffff;
+    border: 1px solid #00698f;
+    color: #00698f;
+    border-radius: 32px;
+    cursor: pointer;
+    height: 15px;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 26px;
+    right: 195px;
+    padding: 23px 35px;
+    font-size: 25px;
+    font-family: DM Sans, 'Source Sans Pro';
+    float: right;
+    margin: auto;
+    /* font-size: xx-large; */
+
+}
+
+.login {
+    background-color: #00698f;
+    border: 1px solid #00698f;
+    color: #ffffff;
+
+    border-radius: 32px;
+    cursor: pointer;
+    height: 15px;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 26px;
+    right: 42px;
+    padding: 23px 35px;
+    font-size: 25px;
+    font-family: DM Sans, 'Source Sans Pro';
+    float: right;
+    margin: auto;
+}
+
+.login:hover {
+    background-color: #ffffff;
+    border: 1px solid #00698f;
+    color: #00698f;
+
+    border-radius: 32px;
+    cursor: pointer;
+    height: 15px;
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    top: 26px;
+    right: 42px;
+    padding: 23px 35px;
+    font-size: 25px;
+    /* font-size: xx-large; */
+    font-family: DM Sans, 'Source Sans Pro';
+    float: right;
+    margin: auto;
+}
+
+header {
+    height: 90px;
+    font-family: 'DM Sans', sans-serif;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #0081af;
+}
